@@ -7,4 +7,4 @@
 
 ### One-stop Guide to Data Manipulation in PySpark
 * Dataset: carbon_emissions.csv
-* Code: carbon_emissions.html
+* Code: carbon_emissions.ipynb
